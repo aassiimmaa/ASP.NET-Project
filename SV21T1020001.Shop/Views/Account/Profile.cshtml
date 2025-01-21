@@ -1,0 +1,117 @@
+﻿@model Customer
+<style>
+    body {
+        background-color: #f4f6f9;
+        font-family: Arial, sans-serif;
+    }
+    .change_password-container {
+        width: 100%;
+        max-width: 400px;
+        margin: 85px 0 0 45%;
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+        padding: 36px;
+        position: relative;
+    }
+
+    .change_password-container h2 {
+        text-align: center;
+        color: #3D8DBC;
+        margin-bottom: 20px;
+        font-weight: bold;
+    }
+    .form-control {
+        width: 100%;
+        padding: 15px;
+        margin-bottom: 20px;
+        border: 1px solid #ddd;
+    }
+    .form-control:focus {
+        border-color: #3D8DBC;
+        box-shadow: 0 0 5px rgba(61, 141, 188, 0.5);
+    }
+
+    .btn-change_password {
+        margin: 12px 0 0 0;
+        background-color: #3D8DBC;
+        color: #fff;
+        font-weight: bold;
+        padding: 12px;
+        width: 100%;
+        height: 44px;
+        cursor: pointer;
+        border: none;
+        transition: background-color 0.3s ease;
+        border-radius: 0;
+    }
+
+    .btn-change_password:hover {
+        color: #FFF;
+        text-decoration: none;
+        background-color: #337ab7;
+
+    }
+    .btn-cancel{
+        margin: 12px 0;
+        background-color: #7e7b7b;
+        color: #fff;
+        font-weight: bold;
+        padding: 12px;
+        width: 100%;
+        height: 44px;
+        cursor: pointer;
+        border: none;
+        transition: background-color 0.3s ease;
+        border-radius: 0;
+    }
+    .btn-cancel:hover{
+        color: #FFF;
+        background-color: #585757;
+    }
+    .text-center a {
+        color: #3D8DBC;
+        text-decoration: none;
+    }
+    .text-center a:hover {
+        text-decoration: underline;
+    }
+
+    .bi-pencil-fill {
+        color: #3D8DBC;
+        font-size: 20px;
+        position: absolute;
+        right: 32px;
+        top: 60px;
+    }
+
+    .bi-pencil-fill:hover {
+        opacity: 0.7;
+    }
+</style>
+<div class="change_password-container">
+    <a href="/Account/Update/@Model.CustomerID">
+        <i class="bi bi-pencil-fill"></i>
+    </a>
+    <h2>Thông tin cá nhân</h2>
+    <div class="form-group">
+        <label for="name">Họ và tên</label>
+        <p style="line-height: 0.4" class="form-control static-form-control">@Model.CustomerName</p>
+    </div>
+    <div class="form-group">
+        <label for="name">Tỉnh/Thành</label>
+        <p style="line-height: 0.4" class="form-control static-form-control">@Model.Province</p>
+    </div>
+    <div class="form-group">
+        <label for="name">Email</label>
+        <p style="line-height: 0.4" class="form-control static-form-control">@Model.Email</p>
+    </div>
+    <div class="form-group">
+        <label for="name">Điện thoại</label>
+        <p style="line-height: 0.4" class="form-control static-form-control">@Model.Phone</p>
+    </div>
+    <div style="">
+        <a href="/Account/ChangePassword" class="btn btn-change_password"> <i class="bi bi-key-fill"></i> Đổi mật khẩu</a>
+        <a href="/" class="btn btn-cancel">Quay lại</a>
+    </div>
+</div>

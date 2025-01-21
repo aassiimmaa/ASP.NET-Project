@@ -1,0 +1,84 @@
+D:\linh tinh\SV21T1020045\SV21T1020045.DomainModels\bin\Debug\net8.0\SV21T1020328.DomainModels.deps.json
+D:\linh tinh\SV21T1020045\SV21T1020045.DomainModels\bin\Debug\net8.0\SV21T1020328.DomainModels.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.DomainModels\bin\Debug\net8.0\SV21T1020328.DomainModels.pdb
+D:\linh tinh\SV21T1020045\SV21T1020045.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.csproj.AssemblyReference.cache
+D:\linh tinh\SV21T1020045\SV21T1020045.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\linh tinh\SV21T1020045\SV21T1020045.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.AssemblyInfoInputs.cache
+D:\linh tinh\SV21T1020045\SV21T1020045.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.AssemblyInfo.cs
+D:\linh tinh\SV21T1020045\SV21T1020045.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.csproj.CoreCompileInputs.cache
+D:\linh tinh\SV21T1020045\SV21T1020045.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.DomainModels\obj\Debug\net8.0\refint\SV21T1020328.DomainModels.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.pdb
+D:\linh tinh\SV21T1020045\SV21T1020045.DomainModels\obj\Debug\net8.0\ref\SV21T1020328.DomainModels.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.DomainModels\bin\Debug\net8.0\SV21T1020328.DomainModels.deps.json
+D:\4th\Web\SV21T1020328\SV21T1020328.DomainModels\bin\Debug\net8.0\SV21T1020328.DomainModels.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.DomainModels\bin\Debug\net8.0\SV21T1020328.DomainModels.pdb
+D:\4th\Web\SV21T1020328\SV21T1020328.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.csproj.AssemblyReference.cache
+D:\4th\Web\SV21T1020328\SV21T1020328.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\4th\Web\SV21T1020328\SV21T1020328.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.AssemblyInfoInputs.cache
+D:\4th\Web\SV21T1020328\SV21T1020328.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.AssemblyInfo.cs
+D:\4th\Web\SV21T1020328\SV21T1020328.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.csproj.CoreCompileInputs.cache
+D:\4th\Web\SV21T1020328\SV21T1020328.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.DomainModels\obj\Debug\net8.0\refint\SV21T1020328.DomainModels.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.pdb
+D:\4th\Web\SV21T1020328\SV21T1020328.DomainModels\obj\Debug\net8.0\ref\SV21T1020328.DomainModels.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.DomainModels\bin\Debug\net8.0\SV21T1020328.DomainModels.deps.json
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.DomainModels\bin\Debug\net8.0\SV21T1020328.DomainModels.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.DomainModels\bin\Debug\net8.0\SV21T1020328.DomainModels.pdb
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.csproj.AssemblyReference.cache
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.AssemblyInfoInputs.cache
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.AssemblyInfo.cs
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.csproj.CoreCompileInputs.cache
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.DomainModels\obj\Debug\net8.0\refint\SV21T1020328.DomainModels.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.DomainModels\obj\Debug\net8.0\SV21T1020328.DomainModels.pdb
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.DomainModels\obj\Debug\net8.0\ref\SV21T1020328.DomainModels.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\bin\Debug\net8.0\SV21T1020001.DomainModels.deps.json
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\bin\Debug\net8.0\SV21T1020001.DomainModels.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\bin\Debug\net8.0\SV21T1020001.DomainModels.pdb
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.csproj.AssemblyReference.cache
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.AssemblyInfoInputs.cache
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.AssemblyInfo.cs
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.csproj.CoreCompileInputs.cache
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\refint\SV21T1020001.DomainModels.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.pdb
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\ref\SV21T1020001.DomainModels.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\bin\Debug\net8.0\SV21T1020001.DomainModels.deps.json
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\bin\Debug\net8.0\SV21T1020001.DomainModels.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\bin\Debug\net8.0\SV21T1020001.DomainModels.pdb
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.csproj.AssemblyReference.cache
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.AssemblyInfoInputs.cache
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.AssemblyInfo.cs
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.csproj.CoreCompileInputs.cache
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\refint\SV21T1020001.DomainModels.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.pdb
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\ref\SV21T1020001.DomainModels.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\bin\Debug\net8.0\SV21T1020001.DomainModels.deps.json
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\bin\Debug\net8.0\SV21T1020001.DomainModels.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\bin\Debug\net8.0\SV21T1020001.DomainModels.pdb
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.csproj.AssemblyReference.cache
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.AssemblyInfoInputs.cache
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.AssemblyInfo.cs
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.csproj.CoreCompileInputs.cache
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\refint\SV21T1020001.DomainModels.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.pdb
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\ref\SV21T1020001.DomainModels.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\bin\Debug\net8.0\SV21T1020001.DomainModels.deps.json
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\bin\Debug\net8.0\SV21T1020001.DomainModels.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\bin\Debug\net8.0\SV21T1020001.DomainModels.pdb
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.csproj.AssemblyReference.cache
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.AssemblyInfoInputs.cache
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.AssemblyInfo.cs
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.csproj.CoreCompileInputs.cache
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\refint\SV21T1020001.DomainModels.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\SV21T1020001.DomainModels.pdb
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.DomainModels\obj\Debug\net8.0\ref\SV21T1020001.DomainModels.dll

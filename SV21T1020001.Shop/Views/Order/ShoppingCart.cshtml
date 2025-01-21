@@ -1,0 +1,196 @@
+﻿@model IEnumerable<CartItem>
+@{
+    var customer = SV21T1020001.BusinessLayers.CommonDataService.GetCustomer(int.Parse(User.GetUserData().UserId));
+}
+<style>
+    .cart-container {
+        width: 100%;
+        width: 1500px;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        padding: 20px;
+        box-sizing: border-box;
+    }
+
+    /* Tiêu đề */
+    .cart-title {
+        text-align: center;
+        margin-bottom: 20px;
+        font-size: 32px;
+        font-weight: bold;
+        color: #3D8DBC;
+    }
+
+    /* Bảng giỏ hàng */
+    .cart-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 20px;
+    }
+
+        .cart-table th, .cart-table td {
+            text-align: center;
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .cart-table th {
+            background-color: #f0f0f0;
+            color: #555;
+        }
+
+    .product-info {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+        .product-info img {
+            width: 50px;
+            height: 50px;
+            object-fit: cover;
+            border-radius: 4px;
+        }
+
+    .quantity-input {
+        width: 60px;
+        padding: 5px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        text-align: center;
+    }
+
+    /* Nút xóa */
+    .delete-btn {
+        background-color: #e74c3c;
+        color: #fff;
+        border: none;
+        padding: 6px 12px;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+    .delete-btn:hover {
+        background-color: #c0392b;
+    }
+
+    /* Tổng cộng và thanh toán */
+    .cart-summary {
+        text-align: right;
+    }
+
+    .total-price {
+        font-size: 20px;
+        color: #2ecc71;
+    }
+
+    .order-btn {
+        background-color: #2ecc71;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+        font-size: 16px;
+    }
+
+    .order-btn:hover {
+        background-color: #27ae60;
+    }
+</style>
+<div class="cart-container">
+    <h1 class="cart-title">Giỏ Hàng</h1>
+    <table class="cart-table">
+        <thead>
+            <tr>
+                <th>Sản phẩm</th>
+                <th>Giá</th>
+                <th>Số lượng</th>
+                <th style="width: 250px">Thành tiền</th>
+                <th>Xóa</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                decimal sum = 0;
+            }
+            @if (Model.Count() > 0)
+            {
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="product-info">
+                            <img src="@(string.IsNullOrEmpty(item.Photo) ? Url.Content($"~/images/product/nophoto.jpg") : Url.Content($"~/images/product/{item.Photo}"))" alt="Sản phẩm 1">
+                            <span>@item.ProductName</span>
+                        </td>
+                        <td>@item.SalePrice.ToString("N0") đ</td>
+                        <td>
+                            <input type="number"
+                                    value="@item.Quantity"
+                                    class="quantity-input"
+                                    data-product-id="@item.ProductID"
+                                    data-sale-price="@item.SalePrice"
+                                    onchange="updateQuantity(@item.ProductID, this.value)" />
+                        </td>
+                        <td id="total-@item.ProductID">@item.TotalPrice.ToString("N0")</td>
+                        <td><a href="~/Order/RemoveFromCart/@item.ProductID" class="delete-btn">Xóa</a></td>
+                    </tr>
+                    sum += item.TotalPrice;
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="5">Chưa có sản phẩm nào. <a style="text-decoration: none;" href="/">Chọn sản phẩm</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    @Html.ValidationMessage("EmptyCart", new {@style = "color: #f00"})
+    @Html.ValidationMessage("EmptyInfo", new { @style = "color: #f00" })
+    <form id="frmOrderInit" action="~/Order/Init" method="post" class="form-horizontal">
+        <div class="cart-summary">
+            <h3>Tổng cộng: <span class="total-price">@sum.ToString("N0")</span></h3>
+            <div>
+                <input type="hidden" name="customerID" value="@customer.CustomerID" />
+                <label>Địa chỉ: </label>
+                <input style="width: 300px; padding: 8px; margin-right: 24px" name="deliveryAddress" value="@customer.Address" placeholder="Nhập địa chỉ nhận hàng" />
+                <label>Tỉnh/Thành:</label>
+                <select style="margin-right: 24px; padding: 10px" name="deliveryProvince">
+                    <option value="">-- Chọn tỉnh thành --</option>
+                    @foreach (var item in SV21T1020001.BusinessLayers.CommonDataService.ListOfProvinces())
+                    {
+                        if (item.ProvinceName == @customer.Province)
+                        {
+                            <option value="@item.ProvinceName" selected>@item.ProvinceName</option>
+                        }
+                        else
+                        {
+                            <option value="@item.ProvinceName">@item.ProvinceName</option>
+                        }
+                    }
+
+                </select>
+                <button type="submit" class="order-btn">Đặt hàng</button>
+            </div>
+        </div>
+    </form>
+    <form id="updateQuantityForm" action="~/Order/UpdateQuantity" method="POST" style="display: none;">
+        <input type="hidden" name="productId" id="productId" />
+        <input type="hidden" name="quantity" id="newQuantity" />
+    </form>
+</div>
+
+<script>
+    function updateQuantity(productId, newQuantity) {
+
+        document.getElementById('productId').value = productId;
+        document.getElementById('newQuantity').value = newQuantity;
+
+        // Gửi form
+        document.getElementById('updateQuantityForm').submit();
+    }
+</script>

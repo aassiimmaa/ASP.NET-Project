@@ -1,0 +1,293 @@
+﻿@model Order
+@{
+    List<OrderDetail> listDetail = SV21T1020001.BusinessLayers.OrderDataService.ListOrderDetails(Model.OrderID);
+}
+<style>
+
+    /* Container */
+    .tracking-container {
+        width: 100%;
+        width: 1500px;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        padding: 20px;
+        box-sizing: border-box;
+        margin-bottom: 48px;
+        position: relative;
+    }
+
+    /* Tiêu đề */
+    .tracking-title {
+        text-align: center;
+        margin-bottom: 20px;
+        font-size: 24px;
+        font-weight: bold;
+        color: #3D8DBC;
+    }
+
+    /* Thông tin đơn hàng */
+    .order-info {
+        margin-bottom: 20px;
+        background-color: #f3f3f3;
+        padding: 15px;
+        border-radius: 8px;
+        font-size: 14px;
+        color: #555;
+    }
+
+    /* Timeline */
+    .tracking-timeline {
+        padding-left: 20px;
+        position: relative;
+        display: flex;
+        justify-content: space-around
+    }
+
+    .timeline-item {
+        position: relative;
+        margin-bottom: 20px;
+        padding-left: 30px;
+    }
+
+    .timeline-item:last-child {
+        margin-bottom: 0;
+    }
+
+    .timeline-icon {
+        position: absolute;
+        top: 0;
+        left: -14px;
+        width: 24px;
+        height: 24px;
+        background-color: #ddd;
+        color: #fff;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 14px;
+    }
+
+    .timeline-content h3 {
+        margin: 0;
+        font-size: 16px;
+        color: #333;
+    }
+
+    .timeline-content p {
+        margin: 5px 0 0;
+        font-size: 14px;
+        color: #555;
+    }
+
+    /* Trạng thái */
+    .timeline-item.completed .timeline-icon {
+        background-color: #4CAF50;
+    }
+
+    .timeline-item.completed h3 {
+        color: #4CAF50;
+    }
+
+    .timeline-item.active .timeline-icon {
+        background-color: #FFC107;
+    }
+
+    .timeline-item.active h3 {
+        color: #FFC107;
+    }
+
+    .timeline-item.danger .timeline-icon {
+        background-color: red;
+    }
+
+    .timeline-item.danger h3 {
+        color: red;
+    }
+
+    .ordering{
+        height:0;
+        width: 95px;
+        border-top: solid 1px #d5cdcd;
+        position: absolute;
+        top: 12px;
+        left: -120px;
+    }
+
+    .accepting{
+        height: 0;
+        width: 175px;
+        border-top: solid 1px #d5cdcd;
+        position: absolute;
+        top: 12px;
+        left: -200px
+    }
+
+    .shipping{
+        height: 0;
+        width: 175px;
+        border-top: solid 1px #d5cdcd;
+        position: absolute;
+        top: 12px;
+        left: -200px
+    }
+
+    .shipped{
+        height: 0;
+        width: 175px;
+        border-top: solid 1px #d5cdcd;
+        position: absolute;
+        top: 12px;
+        left: -200px
+    }
+    /* Bảng giỏ hàng */
+    .cart-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 20px;
+    }
+
+        .cart-table th, .cart-table td {
+            text-align: center;
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .cart-table th {
+            background-color: #f0f0f0;
+            color: #555;
+        }
+
+    .product-info {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+        .product-info img {
+            width: 50px;
+            height: 50px;
+            object-fit: cover;
+            border-radius: 4px;
+        }
+
+    /* Tổng cộng và thanh toán */
+    .cart-summary {
+        text-align: right;
+    }
+
+    .total-price {
+        font-size: 18px;
+        color: #2ecc71;
+    }
+    .return-btn{
+        font-size: 24px;
+        font-weight: bold;
+        position: absolute;
+        top: 3%;
+        left: 1%;
+        text-decoration: none;
+        padding: 8px;
+        transition: all 0.3s ease;
+    }
+    .return-btn:hover{
+       background-color: #d5d5d5;
+    }
+
+    .cancel_btn{
+        position: absolute;
+        top: 40px;
+        right: 20px;
+    }
+</style>
+<div class="tracking-container">
+    @if (Model.Status == 1)
+    {
+        <a class="btn btn-danger cancel_btn" href="~/Order/CancelOrder/@Model.OrderID">Hủy đơn hàng</a>   
+    }
+    <a class="return-btn" href="/Order/Orders"><i class="bi bi-chevron-left"></i></a>
+    <h1 class="tracking-title">Theo dõi đơn hàng</h1>
+    <div class="order-info">
+        <p><strong>Mã đơn hàng:</strong> @Model.OrderID</p>
+        <p><strong>Ngày đặt hàng:</strong> @Model.OrderTime.ToString("HH:mm:ss dd/MM/yyyy")</p>
+        <p><strong>Người nhận:</strong> @Model.CustomerName</p>
+        <p><strong>Địa chỉ giao hàng:</strong> @Model.DeliveryAddress, @Model.DeliveryProvince</p>
+    </div>
+
+    <div>
+        <h3>Thông tin đơn hàng</h3>
+        <hr style="width: 30%" />
+        <table class="cart-table">
+            <thead>
+                <tr>
+                    <th>Sản phẩm</th>
+                    <th>Giá</th>
+                    <th>Số lượng</th>
+                    <th>Thành tiền</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    decimal sum = 0;
+                }
+                @foreach(var item in listDetail)
+                {
+                    sum += item.TotalPrice;
+                    <tr>
+                        <td class="product-info">
+                            <img src="@(string.IsNullOrEmpty(item.Photo) ? Url.Content("~/images/product/nophoto.jpg") : Url.Content($"~/images/product/{item.Photo}"))" alt="Sản phẩm">
+                            <span>@item.ProductName</span>
+                        </td>
+                        <td>@item.SalePrice.ToString("N0") đ</td>
+                        <td>
+                            @item.Quantity
+                        </td>
+                        <td>@item.TotalPrice.ToString("N0") đ</td>
+                    </tr>
+                    }
+            </tbody>
+        </table>
+        <div class="cart-summary">
+            <h4>Tổng cộng: <span class="total-price">@sum.ToString("N0") đ</span></h4>
+        </div>
+    </div>
+    <div>
+        <h3>Trạng thái</h3>
+        <hr style="width: 30%"/>
+    </div>
+    <div class="tracking-timeline">
+        <div class="timeline-item @(Model.Status == Constants.ORDER_CANCEL ? "danger" : "completed")">
+            <div class="ordering"></div>
+            <div class="timeline-icon">@(Model.Status == Constants.ORDER_CANCEL ? "✖" : "✔")</div>
+            <div class="timeline-content">
+                <h3>@(Model.Status == Constants.ORDER_CANCEL ? "Đã hủy" : "Đã đặt hàng")</h3>
+                <p>@(Model.Status == Constants.ORDER_CANCEL ? Model.FinishedTime?.ToString("dd/MM/yyyy - HH:mm") : Model.OrderTime.ToString("dd/MM/yyyy - HH:mm"))</p>
+            </div>
+        </div>
+        <div class="timeline-item @(Model.Status >= Constants.ORDER_ACCEPTED ? "completed" : (Model.Status == Constants.ORDER_INIT ? "active" : (Model.Status == Constants.ORDER_REJECTED ? "danger" : "")))">
+            <div class="accepting"></div>
+            <div class="timeline-icon">@(Model.Status >= Constants.ORDER_ACCEPTED ? "✔" : (Model.Status == Constants.ORDER_REJECTED ? "✖" : "⏳"))</div>
+            <div class="timeline-content">
+                <h3>@(Model.Status >= Constants.ORDER_ACCEPTED ? "Đã xác nhận" : (Model.Status == Constants.ORDER_REJECTED ? "Đã từ chối" : "Đang chờ duyệt"))</h3>
+                <p>@(Model.Status >= Constants.ORDER_ACCEPTED ? Model.AcceptTime?.ToString("dd/MM/yyyy - HH:mm") : (Model.Status == Constants.ORDER_REJECTED ? Model.FinishedTime?.ToString("dd/MM/yyyy - HH:mm") : "Chưa hoàn thành"))</p>
+            </div>
+        </div>
+        <div class="timeline-item @(Model.Status >= Constants.ORDER_SHIPPING ? "completed" : (Model.Status == Constants.ORDER_ACCEPTED ? "active" : ""))">
+            <div class="shipping"></div>
+            <div class="timeline-icon">@(Model.Status >= Constants.ORDER_SHIPPING ? "✔" : "⏳")</div>
+            <div class="timeline-content">
+                <h3>@(Model.Status >= Constants.ORDER_SHIPPING ? "Đã vận chuyển" : "Đang vận chuyển")</h3>
+                <p>@(Model.Status >= Constants.ORDER_SHIPPING ? Model.ShippedTime?.ToString("dd/MM/yyyy - HH:mm") : "Chưa hoàn thành")</p>
+            </div>
+        </div>
+        <div class="timeline-item @(Model.Status == Constants.ORDER_FINISHED ? "completed" : (Model.Status == Constants.ORDER_SHIPPING ? "active" : ""))">
+            <div class="shipped"></div>
+            <div class="timeline-icon">@(Model.Status == Constants.ORDER_FINISHED ? "✔" : "⏳")</div>
+            <div class="timeline-content">
+                <h3>@(Model.Status == Constants.ORDER_FINISHED ? "Đã hoàn tất" : "Đang giao hàng")</h3>
+                <p>@(Model.Status == Constants.ORDER_FINISHED ? Model.FinishedTime?.ToString("dd/MM/yyyy - HH:mm") : "Chưa hoàn thành")</p>
+            </div>
+        </div>
+    </div>
+</div>

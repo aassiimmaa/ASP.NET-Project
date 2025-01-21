@@ -1,0 +1,130 @@
+﻿@model SV21T1020001.Shop.Models.ProductSearchResult
+
+@{
+    Layout = null;
+}
+<style>
+    .card-wrapper{
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+        justify-content: space-between;
+        cursor: pointer;
+    }
+
+    .card {
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        overflow: hidden;
+        margin-bottom: 20px;
+        height: 370px;
+    }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+        }
+
+    .card-img-top {
+        border-bottom: 1px solid #ddd;
+        object-fit: cover;
+    }
+
+    .card-body {
+        padding: 15px;
+    }
+
+    .card-title {
+        font-size: 1.1rem;
+        font-weight: 600;
+        margin-bottom: 10px;
+    }
+
+    .card-text {
+        font-size: 0.9rem;
+        color: #555;
+    }
+
+    .card-link{
+       
+    }
+
+    .card-link:hover{
+        text-decoration: none;
+    }
+
+</style>
+<div style="padding-left: 32px;">
+    <hr />
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <p class="fs-5">
+                Tìm thấy <strong>@Model.RowCount</strong> sản phẩm, hiển thị trên <strong>@Model.PageCount</strong> trang.
+            </p>
+        </div>
+    </div>
+
+    <!-- Danh sách sản phẩm -->
+    <div class="card-wrapper">
+        @foreach (var item in Model.Data)
+        {
+            <a class="card-link" href="@Url.Action("Index", "DetailProduct", new { ProductID = item.ProductID })">
+                <div style="width: 250px;" class="card">
+                    <img style="width: 250px; height: 250px; object-fit: cover" src="@(string.IsNullOrEmpty(item.Photo) ? Url.Content("~/images/product/nophoto.jpg") : Url.Content($"~/images/product/{item.Photo}"))" class="card-img-top" alt="@item.ProductName">
+                    <div class="card-body d-flex flex-column">
+                        <h4 style="font-size: 16px; color: #000; white-space: nowrap; overflow: hidden; text-overflow: ellipsis" class="card-title text-center text-truncate" title="@item.ProductName">@item.ProductName</h4>
+                        <p style="font-size: 16px; color: #3B8DBC; font-weight: bold" class="card-text text-center text-muted">@item.Price.ToString("N0") đ</p>
+                    </div>
+                </div>
+            </a>
+        }
+    </div>
+
+    <!-- Phân trang -->
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <nav>
+                <ul class="pagination justify-content-center">
+                    @if (Model.PageCount > 1)
+                    {
+                        int maxPagesToShow = 5;
+                        int startPage = Math.Max(1, Model.Page - maxPagesToShow / 2);
+                        int endPage = Math.Min(Model.PageCount, startPage + maxPagesToShow - 1);
+
+                        if (startPage > 1)
+                        {
+                            <li class="page-item">
+                                <a class="page-link" href="javascript:;" onclick="doSearch(1)">&laquo;</a>
+                            </li>
+                        }
+
+                        for (int p = startPage; p <= endPage; p++)
+                        {
+                            if (p == Model.Page)
+                            {
+                                <li class="page-item active" aria-current="page">
+                                    <span class="page-link">@p</span>
+                                </li>
+                            }
+                            else
+                            {
+                                <li class="page-item">
+                                    <a class="page-link" href="javascript:;" onclick="doSearch(@p)">@p</a>
+                                </li>
+                            }
+                        }
+
+                        if (endPage < Model.PageCount)
+                        {
+                            <li class="page-item">
+                                <a class="page-link" href="javascript:;" onclick="doSearch(@Model.PageCount)">&raquo;</a>
+                            </li>
+                        }
+                    }
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+

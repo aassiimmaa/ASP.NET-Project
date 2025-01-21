@@ -1,0 +1,65 @@
+﻿@model ProductPhoto
+@{
+}
+<div class="box box-primary">
+    <div class="box-body">
+        <form class="form-horizontal" method="post" enctype="multipart/form-data" action="~/Product/SavePhoto">
+            <input type="hidden" name="@nameof(Model.PhotoID)" value="@Model.PhotoID" />
+            <input type="hidden" name="@nameof(Model.ProductID)" value="@Model.ProductID" />
+            <div class="form-group">
+                <label class="control-label col-sm-2">Chọn file ảnh:</label>
+                <div class="col-sm-10">
+                    <input type="file" class="form-control" name="uploadPhoto" accept="image/*"
+                           onchange="document.getElementById('Photo').src = window.URL.createObjectURL(this.files[0])" />
+                    @Html.ValidationMessage("uploadPhotoNull", new { @style = "color:#f00" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-lg-offset-2 col-sm-10">
+                    <input type="hidden" name="@nameof(Model.Photo)" value="@Model.Photo" />
+                    <img id="Photo" src="~/images/product/@Model.Photo" class="img img-bordered" style="width:100px" />
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2">Mô tả:</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" name="@nameof(Model.Description)" value="@Model.Description">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2">Thứ tự hiển thị:</label>
+                <div class="col-sm-10">
+                    <input type="number" class="form-control" name="@nameof(Model.DisplayOrder)" value="@Model.DisplayOrder">
+                    @Html.ValidationMessage(nameof(Model.DisplayOrder), new { @style = "color:#f00" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-lg-offset-2 col-sm-10">
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox" name="@nameof(Model.IsHidden)" value="false" @(Model.IsHidden ? "checked" : "") /> Không hiển thị ảnh
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-lg-offset-2 col-sm-10">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="fa fa-floppy-o"></i>
+                        Lưu dữ liệu
+                    </button>
+                    <a class="btn btn-default" href="~/Product/Edit?id=@Model.ProductID">
+                        Quay lại
+                    </a>
+                </div>
+            </div>
+
+        </form>
+
+    </div>
+</div>

@@ -1,0 +1,211 @@
+﻿@model IEnumerable<Order>
+@using SV21T1020001.DomainModels
+@{
+    var customer = SV21T1020001.BusinessLayers.CommonDataService.GetCustomer(int.Parse(User.GetUserData().UserId));
+}
+<style>
+    .text-center{
+        text-align: center;
+    }
+    /* Container */
+    .order-list-container {
+        min-height: 740px;
+        width: 1500px;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        padding: 20px;
+        box-sizing: border-box;
+    }
+
+    /* Title */
+    .order-list-title {
+        text-align: center;
+        font-size: 28px;
+        font-weight: bold;
+        color: #3D8DBC;
+        margin-bottom: 36px;
+    }
+
+    /* Table */
+    .order-table {
+        width: 100%;
+        border-collapse: separate;
+        font-size: 16px;
+    }
+
+    .order-table thead {
+        background-color: #f3f3f3;
+    }
+
+    .order-table th,
+    .order-table td {
+        padding: 10px 15px;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .order-table th {
+        color: #555;
+    }
+
+    .order-table td {
+        color: #333;
+    }
+
+    .order-table .order-status {
+        font-weight: bold;
+        text-transform: capitalize;
+        padding: 5px 10px;
+        border-radius: 4px;
+        text-align: center;
+    }
+
+    .status-completed {
+        background-color: #4CAF50;
+        color: #fff;
+    }
+
+    .status-pending {
+        background-color: #FFC107;
+        color: #fff;
+    }
+
+    .status-cancelled {
+        background-color: #F44336;
+        color: #fff;
+    }
+
+    .status-approved {
+        background-color: #3670f4;
+        color: #fff;
+    }
+
+    .status-shipping {
+        background-color: #ef560d;
+        color: #fff;
+    }
+    
+    .status-delivered{
+        background-color: #bd3192;
+        color: #fff;
+    }
+
+    .status-rejected{
+        background-color: #696969;
+        color: #fff;
+    }
+
+    .view-details-btn {
+        padding: 5px 10px;
+        text-decoration: none;
+        transition: background-color 0.3s ease;
+    }
+
+    th{
+        border-top: solid 1px #ccc;
+    }
+
+    td:first-child, th:first-child{
+        border-left: solid 1px #ccc;
+    }
+
+    td, th {
+        border-right: 1px solid #ccc;
+    }
+</style>
+
+<div class="order-list-container">
+    <h1 class="order-list-title">Danh sách đơn hàng</h1>
+    <table class="order-table">
+        <thead>
+            <tr>
+                <th style="width: 200px" class="text-center">Mã đơn hàng</th>
+                <th class="text-center">Ngày đặt</th>
+                <th class="text-center">Người nhận</th>
+                <th class="text-center">Trạng thái</th>
+                <th class="text-center">Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <td class="text-center">@item.OrderID</td>
+                    <td class="text-center">@item.OrderTime.ToString("HH:mm:ss dd/MM/yyyy")</td>
+                    <td class="text-center">@customer.CustomerName</td>
+                    @{
+                        switch (item.Status)
+                        {
+                            case Constants.ORDER_INIT:
+                                <td class="text-center"><span class="order-status status-pending">Đang chờ duyệt</span></td>
+                                break;
+                            case Constants.ORDER_ACCEPTED:
+                                <td class="text-center"><span class="order-status status-approved">Đã duyệt</span></td>
+                                break;
+                            case Constants.ORDER_SHIPPING:
+                                <td class="text-center"><span class="order-status status-shipping">Đang được giao</span></td>
+                                break;
+                            case Constants.ORDER_FINISHED:
+                                <td class="text-center"><span class="order-status status-completed">Hoàn tất</span></td>
+                                break;
+                            case Constants.ORDER_CANCEL:
+                                <td class="text-center"><span class="order-status status-cancelled">Đã hủy</span></td>
+                                break;
+                            case Constants.ORDER_REJECTED:
+                                <td class="text-center"><span class="order-status status-rejected">Bị từ chối</span></td>
+                                break;
+                            default:
+                                break;
+                        }
+                    }
+                    <td class="text-center"><a href="/order/OrderDetail/@item.OrderID" class="view-details-btn">Xem chi tiết</a></td>
+                </tr>
+            }
+            @{
+                // <td class="text-center"><span class="order-status status-completed">Hoàn tất</span></td>
+                // <tr>
+                //     <td class="text-center">12346</td>
+                //     <td class="text-center">02/01/2025</td>
+                //     <td class="text-center">Nguyễn Thị B</td>
+                //     <td class="text-center"><span class="order-status status-pending">Đang chờ duyệt</span></td>
+                //     <td class="text-center"><a href="/order/12346" class="view-details-btn">Xem chi tiết</a></td>
+                // </tr>
+                // <tr>
+                //     <td class="text-center">12347</td>
+                //     <td class="text-center">03/01/2025</td>
+                //     <td class="text-center">Trần Văn C</td>
+                //     <td class="text-center"><span class="order-status status-cancelled">Đã hủy</span></td>
+                //     <td class ="text-center"><a href="/order/12347" class="view-details-btn">Xem chi tiết</a></td>
+                // </tr>
+                // <tr>
+                //     <td class="text-center">12348</td>
+                //     <td class="text-center">03/01/2025</td>
+                //     <td class="text-center">Trần Văn D</td>
+                //     <td class="text-center"><span class="order-status status-approved">Đã duyệt</span></td>
+                //     <td class="text-center"><a href="/order/12348" class="view-details-btn">Xem chi tiết</a></td>
+                // </tr>
+                // <tr>
+                //     <td class="text-center">12349</td>
+                //     <td class="text-center">03/01/2025</td>
+                //     <td class="text-center">Trần Văn E</td>
+                //     <td class="text-center"><span class="order-status status-shipping">Đang được giao</span></td>
+                //     <td class="text-center"><a href="/order/12348" class="view-details-btn">Xem chi tiết</a></td>
+                // </tr>
+                // <tr>
+                //     <td class="text-center">12350</td>
+                //     <td class="text-center">03/01/2025</td>
+                //     <td class="text-center">Trần Văn F</td>
+                //     <td class="text-center"><span class="order-status status-delivered">Đã giao</span></td>
+                //     <td class="text-center"><a href="/order/12348" class="view-details-btn">Xem chi tiết</a></td>
+                // </tr>
+                // <tr>
+                //     <td class="text-center">12351</td>
+                //     <td class="text-center">03/01/2025</td>
+                //     <td class="text-center">Trần Văn G</td>
+                //     <td class="text-center"><span class="order-status status-rejected">Bị từ chối</span></td>
+                //     <td class="text-center"><a href="/order/12351" class="view-details-btn">Xem chi tiết</a></td>
+                // </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,48 @@
+﻿@{
+    int rowcount;
+    List<Category> lists = SV21T1020001.BusinessLayers.CommonDataService.ListOfCategory(out rowcount, 1, 0, "");
+}
+<style>
+    .list-group {
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+        margin-top: 20px;
+    }
+
+    .list-group-item {
+        background-color: #fdfdfd;
+        border: none;
+        color: #333;
+        font-size: 16px;
+        font-weight: 500;
+        padding: 10px 15px;
+        transition: background-color 0.3s ease, color 0.3s ease, transform 0.2s ease;
+    }
+
+
+        .list-group-item:hover {
+            background-color: #007bff;
+            color: #fff;
+            transform: translateX(5px);
+            text-decoration: none;
+        }
+</style>
+
+<div class="list-group">
+    <div style="padding: 10px 15px">
+        <h4 style="font-weight: 700">
+            Danh sách loại hàng
+        </h4>
+    </div>
+    <hr style="width: 70%; margin: 0 0 0 10px; border-top: solid 1px #ccc; margin-bottom: 4px" />
+    <a class="list-group-item list-group-item-action" href="@Url.Action("Index", "Home", new { categoryId = 0 })">
+        Tất cả
+    </a>
+    @foreach (var category in lists)
+    {
+        <a class="list-group-item list-group-item-action" href="@Url.Action("Index", "Home", new { categoryId = category.CategoryID })">
+            @category.CategoryName
+        </a>
+    }
+</div>

@@ -1,0 +1,459 @@
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\appsettings.json
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\SV21T1020328.Web.staticwebassets.runtime.json
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\SV21T1020328.Web.exe
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\SV21T1020328.Web.deps.json
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\SV21T1020328.Web.runtimeconfig.json
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\SV21T1020328.Web.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\SV21T1020328.Web.pdb
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\Azure.Core.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\Azure.Identity.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\Dapper.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\System.ClientModel.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\System.Memory.Data.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\SV21T1020328.BusinessLayers.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\SV21T1020328.DataLayers.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\SV21T1020328.DomainModels.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\SV21T1020328.BusinessLayers.pdb
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\SV21T1020328.DataLayers.pdb
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\bin\Debug\net8.0\SV21T1020328.DomainModels.pdb
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\SV21T1020328.Web.csproj.AssemblyReference.cache
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\SV21T1020328.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\SV21T1020328.Web.AssemblyInfoInputs.cache
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\SV21T1020328.Web.AssemblyInfo.cs
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\SV21T1020328.Web.csproj.CoreCompileInputs.cache
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\SV21T1020328.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\SV21T1020328.Web.RazorAssemblyInfo.cache
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\SV21T1020328.Web.RazorAssemblyInfo.cs
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\staticwebassets\msbuild.SV21T1020328.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.SV21T1020328.Web.props
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SV21T1020328.Web.props
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SV21T1020328.Web.props
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\scopedcss\bundle\SV21T1020328.Web.styles.css
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\scopedcss\projectbundle\SV21T1020328.Web.bundle.scp.css
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\SV21T102.4EEA9A86.Up2Date
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\SV21T1020328.Web.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\refint\SV21T1020328.Web.dll
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\SV21T1020328.Web.pdb
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\SV21T1020328.Web.genruntimeconfig.cache
+D:\linh tinh\SV21T1020045\SV21T1020045.Web\obj\Debug\net8.0\ref\SV21T1020328.Web.dll
+D:\linh tinh\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.dll
+D:\linh tinh\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\refint\SV21T1020328.Web.dll
+D:\linh tinh\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.pdb
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\appsettings.json
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.Web.staticwebassets.runtime.json
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.Web.exe
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.Web.deps.json
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.Web.runtimeconfig.json
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.Web.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.Web.pdb
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Azure.Core.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Azure.Identity.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Dapper.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\System.ClientModel.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\System.Memory.Data.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.BusinessLayers.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.DataLayers.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.DomainModels.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.BusinessLayers.pdb
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.DataLayers.pdb
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.DomainModels.pdb
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.csproj.AssemblyReference.cache
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.AssemblyInfoInputs.cache
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.AssemblyInfo.cs
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.csproj.CoreCompileInputs.cache
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.RazorAssemblyInfo.cache
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.RazorAssemblyInfo.cs
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\staticwebassets\msbuild.SV21T1020328.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.SV21T1020328.Web.props
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SV21T1020328.Web.props
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SV21T1020328.Web.props
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\scopedcss\bundle\SV21T1020328.Web.styles.css
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\scopedcss\projectbundle\SV21T1020328.Web.bundle.scp.css
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T102.4EEA9A86.Up2Date
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\refint\SV21T1020328.Web.dll
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.pdb
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.genruntimeconfig.cache
+D:\4th\Web\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\ref\SV21T1020328.Web.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\appsettings.json
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.Web.staticwebassets.runtime.json
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.Web.exe
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.Web.deps.json
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.Web.runtimeconfig.json
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.Web.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.Web.pdb
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Azure.Core.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Azure.Identity.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Dapper.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\System.ClientModel.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\System.Memory.Data.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.BusinessLayers.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.DataLayers.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.DomainModels.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.BusinessLayers.pdb
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.DataLayers.pdb
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\bin\Debug\net8.0\SV21T1020328.DomainModels.pdb
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.csproj.AssemblyReference.cache
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.AssemblyInfoInputs.cache
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.AssemblyInfo.cs
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.csproj.CoreCompileInputs.cache
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.RazorAssemblyInfo.cache
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.RazorAssemblyInfo.cs
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\staticwebassets\msbuild.SV21T1020328.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.SV21T1020328.Web.props
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SV21T1020328.Web.props
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SV21T1020328.Web.props
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\scopedcss\bundle\SV21T1020328.Web.styles.css
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\scopedcss\projectbundle\SV21T1020328.Web.bundle.scp.css
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T102.4EEA9A86.Up2Date
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\refint\SV21T1020328.Web.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.pdb
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\SV21T1020328.Web.genruntimeconfig.cache
+D:\HUSC\Senior\I\Web App\Project\SV21T1020328\SV21T1020328\SV21T1020328.Web\obj\Debug\net8.0\ref\SV21T1020328.Web.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\appsettings.json
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.Web.staticwebassets.runtime.json
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.Web.exe
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.Web.deps.json
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.Web.runtimeconfig.json
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.Web.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.Web.pdb
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Azure.Core.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Azure.Identity.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Dapper.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\System.ClientModel.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\System.Memory.Data.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.BusinessLayers.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.DataLayers.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.DomainModels.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.DataLayers.pdb
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.DomainModels.pdb
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.BusinessLayers.pdb
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.csproj.AssemblyReference.cache
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.AssemblyInfoInputs.cache
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.AssemblyInfo.cs
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.csproj.CoreCompileInputs.cache
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.RazorAssemblyInfo.cache
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.RazorAssemblyInfo.cs
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets\msbuild.SV21T1020001.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.SV21T1020001.Web.props
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SV21T1020001.Web.props
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SV21T1020001.Web.props
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\scopedcss\bundle\SV21T1020001.Web.styles.css
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\scopedcss\projectbundle\SV21T1020001.Web.bundle.scp.css
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T102.ACDD53D8.Up2Date
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\refint\SV21T1020001.Web.dll
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.pdb
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.genruntimeconfig.cache
+D:\HUSC\Senior\I\Web App\Project\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\ref\SV21T1020001.Web.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\appsettings.json
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.Web.staticwebassets.runtime.json
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.Web.exe
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.Web.deps.json
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.Web.runtimeconfig.json
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.Web.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.Web.pdb
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Azure.Core.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Azure.Identity.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Dapper.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\System.ClientModel.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\System.Memory.Data.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.BusinessLayers.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.DataLayers.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.DomainModels.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.DataLayers.pdb
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.DomainModels.pdb
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.BusinessLayers.pdb
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.csproj.AssemblyReference.cache
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.AssemblyInfoInputs.cache
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.AssemblyInfo.cs
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.csproj.CoreCompileInputs.cache
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.RazorAssemblyInfo.cache
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.RazorAssemblyInfo.cs
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets\msbuild.SV21T1020001.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.SV21T1020001.Web.props
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SV21T1020001.Web.props
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SV21T1020001.Web.props
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\scopedcss\bundle\SV21T1020001.Web.styles.css
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\scopedcss\projectbundle\SV21T1020001.Web.bundle.scp.css
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T102.ACDD53D8.Up2Date
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\refint\SV21T1020001.Web.dll
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.pdb
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.genruntimeconfig.cache
+D:\page\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\ref\SV21T1020001.Web.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\appsettings.json
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.Web.staticwebassets.runtime.json
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.Web.exe
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.Web.deps.json
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.Web.runtimeconfig.json
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.Web.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.Web.pdb
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Azure.Core.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Azure.Identity.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Dapper.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\System.ClientModel.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\System.Memory.Data.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.BusinessLayers.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.DataLayers.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.DomainModels.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.DataLayers.pdb
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.DomainModels.pdb
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\bin\Debug\net8.0\SV21T1020001.BusinessLayers.pdb
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.csproj.AssemblyReference.cache
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.AssemblyInfoInputs.cache
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.AssemblyInfo.cs
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.csproj.CoreCompileInputs.cache
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.RazorAssemblyInfo.cache
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.RazorAssemblyInfo.cs
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets\msbuild.SV21T1020001.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.SV21T1020001.Web.props
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SV21T1020001.Web.props
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SV21T1020001.Web.props
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\scopedcss\bundle\SV21T1020001.Web.styles.css
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\scopedcss\projectbundle\SV21T1020001.Web.bundle.scp.css
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T102.ACDD53D8.Up2Date
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\refint\SV21T1020001.Web.dll
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.pdb
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\SV21T1020001.Web.genruntimeconfig.cache
+D:\HUSC\Senior\SV21T1020001 (1)\SV21T1020001\SV21T1020001\SV21T1020001.Web\obj\Debug\net8.0\ref\SV21T1020001.Web.dll
